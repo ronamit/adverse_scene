@@ -17,7 +17,9 @@ This is not an official Google product.
 
 ## Installation
 * requires linux
-* create Python 3.10 environment (e.g. with conda)
+* create Python 3.10 environment (e.g. with conda $ conda create -n adv python=3.10
+=)
+* activate the environment
 * $ pip3 install --upgrade pip
 * $ pip3 install tensorflow
 * $ pip3 install -r requirements.txt
